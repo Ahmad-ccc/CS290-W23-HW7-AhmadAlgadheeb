@@ -1,0 +1,2 @@
+feature1: initial content
+feature1: enhancement with 1 bug
